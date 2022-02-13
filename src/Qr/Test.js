@@ -32,3 +32,5 @@ class Test extends Component {
   }
 }
 export default Test;
+
+// just a comment
